@@ -1401,6 +1401,14 @@
                         "right": "5.347"
                     }
                 },
+                "maastricht_netherlands": {
+                    "bbox": {
+                        "top": "50.914",
+                        "left": "5.631",
+                        "bottom": "50.789",
+                        "right": "5.773"
+                    }
+                }
                 "annecy_france": {
                     "bbox": {
                         "top": "46.026",
